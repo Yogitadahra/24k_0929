@@ -9,14 +9,19 @@ Government , gender and age
 Process and steps
 
 If (government==Sindh) 
-   If Gender==girl or boy  if age>=18
+
+   If Gender==girl or boy and age>=18
+   
         0utput “legal”
         
 Else If(government==Punjab)
+
      If Gender==girl and age>=16  And If Gender==boy and age>=18
+     
       Output “legal”
 
 Else
+
 Output ”illegal”
 
 END 
