@@ -1,0 +1,13 @@
+Pseudocode
+
+Problem#1
+START
+Input
+Take speed in km/s
+1km/s=2236.9mile/h
+\\process
+Mile/h=km/s*2236.9
+output 
+mile/h
+END
+
