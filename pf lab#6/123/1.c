@@ -1,7 +1,7 @@
   #include <stdio.h>
   int main()
 {
-  int n,value=0; 
+  int n,value=0;   //do while is right loop to use here because it whas to give a number and then check the condition.
   do
   {
     printf("enter the number:");
